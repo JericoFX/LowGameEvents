@@ -22,7 +22,7 @@ end)
 ```
 ## CEventShockingMadDriverExtreme and CEventShockingMadDriver
 
-This event get trigger when you pass an NPC at hight speed or when you drive like crazy thowards a ped
+This event get trigger when you pass an NPC at high speed or when you drive like crazy towards a ped
 
 | Args | Type | Description |
 | ------ | ------ | ------ |
